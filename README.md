@@ -14,6 +14,7 @@ Atualmente sou um desenvolvedor voltado para o back-end, estudante de Ciencia da
 
 ### 📖 Tecnologias que estou aprendendo
 - Spring
+- C
 
 ### 🔗 Redes sociais
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-de-oliveira-a76081242/)
