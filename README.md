@@ -1,3 +1,7 @@
-### Bem vindo ao meu perfil! Me chamo Pedro :)
+# Olá! Me chamo
+## Pedro Henrique de Oliveira
 
-Atualmente sou um desenvolvedor voltado para o back-end, estudante de Ciencia da Computação na UENP
+## Contatos
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliv3ira/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenrique.oliveira119@gmail.com)
+
+Desenvolvedor backend
