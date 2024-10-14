@@ -1,4 +1,4 @@
-# Olá eu sou o Pedro Henrique de Oliveira
+# Olá, me chamo Pedro Henrique de Oliveira
 Sou Desenvolvedor Back-End, apaixonado por tecnologias.
 
 ## Contatos
