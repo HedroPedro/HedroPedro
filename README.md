@@ -2,7 +2,7 @@
 Sou Desenvolvedor de Aplicações de Mainframe, apaixonado por tecnologias antigas e programação de de baixo nível.
 
 ## Contatos
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliv3ira/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenrique.oliveira119@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliv3ira/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenrique.oliveira119@gmail.com)
 
 ## Linguagens que domino
 ![jcl](https://img.shields.io/badge/JCL-0047AB?style=for-the-badge) ![cobol](https://img.shields.io/badge/COBOL-0047AB?style=for-the-badge)
