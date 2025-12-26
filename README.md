@@ -19,3 +19,7 @@ Sou Desenvolvedor de Aplicações de Mainframe, apaixonado por tecnologias antig
 
 ## Framerworks que tenho experiência
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+
+### Ferramentas que tenho conhecimento
+- Excel
+- PowerBI
