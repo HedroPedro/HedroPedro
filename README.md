@@ -2,7 +2,7 @@
 
 ### Hybrid Systems Architect | Mainframe & Low-Level Developer
 
-I am a software engineer passionate about high-performance computing, seamlessly moving between the robustness of **Mainframe (z/OS)**, the bit-manipulation of **Low-Level Programming (x86-64 / z/Architecture)**, and the agility of modern stacks like **Node.js, Python, and Java**.
+I am a software engineer passionate about high-performance computing, moving between the robustness of **Mainframe (z/OS)**, **Low-Level Programming (x86-64 / z/Architecture)**, and the agility of modern stacks like **Node.js, Python, and Java**.
 
 My focus is on building hybrid integration solutions, modernizing legacy infrastructure, and optimizing performance straight to the bit.
 
