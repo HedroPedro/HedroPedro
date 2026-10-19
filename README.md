@@ -1,19 +1,5 @@
 # Hi, I'm Pedro Henrique de Oliveira 👋
 
-### Hybrid Systems Architect | Mainframe & Low-Level Developer
-
-I am a software engineer passionate about high-performance computing, moving between the robustness of **Mainframe (z/OS)**, **Low-Level Programming (x86-64 / z/Architecture)**, and the agility of modern stacks like **Node.js, Python, and Java**.
-
-My focus is on building hybrid integration solutions, modernizing legacy infrastructure, and optimizing performance straight to the bit.
-
----
-
-## Featured Projects & Systems Engineering
-
-* **Mainframe Modernization: Hybrid COBOL Batch Data Extractor**
-    * Developed a high-volume data extraction pipeline using **COBOL Batch** and **JCL** within the z/OS ecosystem.
-    * Implemented modern integration using **Node.js** and the **Zowe** framework to orchestrate jobs and consume Mainframe REST APIs.
-    * Built data pre-processing pipeline using **Python**.
 ---
 
 ## Tech Stack & Ecosystems
